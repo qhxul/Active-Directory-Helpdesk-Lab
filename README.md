@@ -9,7 +9,7 @@ This project is a hands-on simulation of a real IT help desk environment using A
 - osTicket Ticketing System
 - Remote Desktop (RDP)
 
-*Domain:* lab.local
+**Domain:** lab.local
 ---
 
 * Project 1: Password Reset
